@@ -1,0 +1,7 @@
+/src/main/resources
+/target/
+/.settings/
+.classpath
+.project
+.cache-main
+.cache-tests
