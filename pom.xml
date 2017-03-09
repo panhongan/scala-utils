@@ -4,7 +4,7 @@
 
 	<groupId>com.github.panhongan</groupId>
 	<artifactId>scala-utils</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<packaging>jar</packaging>
 
 	<name>${project.groupId}:${project.artifactId}</name>
@@ -31,7 +31,7 @@
 		<connection>https://github.com/panhongan/scala-utils.git</connection>
 		<developerConnection>https://github.com/panhongan/scala-utils.git</developerConnection>
 		<url>https://github.com/panhongan/java-utils</url>
-		<tag>v0.0.2</tag>
+		<tag>v0.0.3</tag>
 	</scm>
 
 	<distributionManagement>
@@ -218,7 +218,7 @@
 		<dependency>
 			<groupId>com.github.panhongan</groupId>
 			<artifactId>java-utils</artifactId>
-			<version>0.0.8</version>
+			<version>0.1.5</version>
 		</dependency>
 
 	</dependencies>
